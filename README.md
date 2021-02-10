@@ -1,2 +1,2 @@
-# Projeto_MongoDB_Recode_Pro
- Projeto docurso de MongoBD da recode Pro
+# Projeto_React_Recode_Pro
+ projeto do curso de react da Recode Pro
